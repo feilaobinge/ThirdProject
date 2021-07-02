@@ -17,6 +17,7 @@ class CodeLearningApplicationTests {
     @Test
     void simpleTest(){
         System.out.println(123);
+        System.out.println("hello");
     }
 
     public static void main(String[] arg){
