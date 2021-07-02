@@ -16,7 +16,7 @@ class CodeLearningApplicationTests {
 
     @Test
     void simpleTest(){
-
+        System.out.println(123);
     }
 
     public static void main(String[] arg){
